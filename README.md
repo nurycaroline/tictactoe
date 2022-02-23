@@ -1,8 +1,8 @@
 # Tic Tac Toe
 
-![Home Page](https://github.com/nurycaroline/tictactoe_react/blob/master/home.png)
+![Home Page](./home.png)
 
-![Board](https://github.com/nurycaroline/tictactoe_react/blob/master/board.png)
+![Board](./board.png)
 
 ### Instalação
 ```
